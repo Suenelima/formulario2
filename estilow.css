@@ -1,0 +1,65 @@
+Encontrar
+Hangouts
+
+Conversations
+0,22 GB de 15 GB usado
+Termos · Privacidade · Políticas do Programa
+Last account activity: 0 minutes ago
+Open in 1 other location · Details
+
+@charset "UTF-8";
+@font-face {
+    font-family: 'FonteLogo';
+    src: url('_fonts/bubblegum-sans-regular.otf');
+}
+
+
+
+
+form{
+   margin: 0 auto;
+   width: 350px;
+   padding: 2em;
+   border: 4px solid black;
+   border-radius: 2em;
+   background-color: rgba(255, 0, 179, 0.74);
+   text-align: center;
+   color: white;
+}
+
+ul{
+   list-style: none;
+   padding: 0;
+   margin: 0;
+}
+
+form li{
+   margin-top:top;
+   height: 20px;
+}
+
+label{
+   display: inline-block;
+   width: 150px;
+   text-align: right;
+}
+
+input, textarea{
+   font: 1em sans-serif;
+   width: 100px;
+   box-sizing: border-box;
+   border: 1px solid dimgray;
+}
+
+textarea{
+   vertical-align: top;
+   height: 5em;
+}
+
+
+h1{
+   font-size: 30px;
+}
+form{
+   font-size: 12px;
+}
